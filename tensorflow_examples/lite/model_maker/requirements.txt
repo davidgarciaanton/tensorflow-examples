@@ -7,7 +7,7 @@ pillow>=7.0.0
 sentencepiece==0.2.0
 tensorflow-datasets==4.9.1
 fire==0.3.1
-flatbuffers==2.0
+flatbuffers==23.5.26
 absl-py>=0.10.0
 urllib3
 tflite-support==0.4.4
